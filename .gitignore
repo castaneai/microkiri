@@ -1,1 +1,3 @@
 savedata/
+build/*
+!build/.gitkeep

@@ -1,5 +1,13 @@
 # microkiri
 
+microkiri is based on KrKr2
+
+## Build
+
+```
+./build.ps1
+```
+
 ## Copyright
 
 https://maoudamashii.jokersounds.com/
