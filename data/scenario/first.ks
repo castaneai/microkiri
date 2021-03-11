@@ -6,16 +6,24 @@
 ‚±‚ñ‚É‚¿‚ÍB[r]
 
 *start
-[link target="*1"]„‚P‚¾‚æ[endlink][r]
-[link target="*2"]„‚Q‚¾‚æ[endlink][r]
+[link target="*1"]>MPEG-1[endlink][r]
+[link target="*2"]>WMV[endlink][r]
 [s]
 
 *1
 [er]
-‚P‚ª‰Ÿ‚³‚ê‚½‚æ[p][er]
+[video visible=true top=0 left=0 width=640 height=480]
+[wv canskip=true]
+[playvideo storage="sample_640x360.mpeg"]
+[waitclick]
+[stopvideo]
 [jump target="*start"]
 
 *2
 [er]
-‚Q‚ª‰Ÿ‚³‚ê‚½‚æ[p][er]
+[video visible=true top=0 left=0 width=640 height=480]
+[wv canskip=true]
+[playvideo storage="Video1.WMV"]
+[waitclick]
+[stopvideo]
 [jump target="*start"]
